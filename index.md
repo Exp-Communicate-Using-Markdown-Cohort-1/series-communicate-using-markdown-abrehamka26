@@ -6,3 +6,7 @@
 ```
 std::cout << "This is c++ code to output into the console << endl;
 ```
+
+- [ ] Turn on github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce my self to the world
